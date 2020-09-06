@@ -6,6 +6,7 @@ function scuberGreetingForFeet() {
  else if (distance  > 2000) {
    greeting = 'I will gladly take your thirty bucks.';
  }
+ 
  }
 }
 
