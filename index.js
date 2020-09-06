@@ -1,4 +1,4 @@
-function scuberGreetingForFeet(){
+function scuberGreetingForFeet(distance){
  let greeting 
  if(distance > 0)
 }
