@@ -9,7 +9,7 @@ function scuberGreetingForFeet(distance) {
 }
 
 function ternaryCheckCity(location) {
- 
+ location = 'NYC' ? 
 
 function switchOnCharmFromTip(){
   // Write your code here!
