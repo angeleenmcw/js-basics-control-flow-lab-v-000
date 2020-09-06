@@ -24,3 +24,4 @@ function switchOnCharmFromTip(tip) {
    return 'Bye'
    break;
 }
+}
