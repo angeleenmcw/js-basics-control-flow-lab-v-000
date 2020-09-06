@@ -9,7 +9,7 @@ function scuberGreetingForFeet(distance) {
 }
 
 function ternaryCheckCity(location) {
- location = 'NYC' ? 'Ok, sounds good.' : 'No go.';
+ return (location = 'NYC' ? 'Ok, sounds good.' : 'No go.');
 }
 
 function switchOnCharmFromTip(){
