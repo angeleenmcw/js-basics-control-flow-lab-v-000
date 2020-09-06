@@ -8,8 +8,6 @@ function scuberGreetingForFeet(distance) {
  else {
    return 'No can do.'
  }
- 
- }
 }
 
 function ternaryCheckCity(){
