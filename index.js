@@ -8,9 +8,11 @@ function scuberGreetingForFeet(distance) {
   }
 }
 
-function ternaryCheckCity(){
-  // Write your code here!
-}
+function ternaryCheckCity(location) {
+ if (location = 'NYC') {
+    return 'Ok, sounds good.';
+  }
+ }
 
 function switchOnCharmFromTip(){
   // Write your code here!
