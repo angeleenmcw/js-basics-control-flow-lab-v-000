@@ -1,6 +1,6 @@
-function scuberGreetingForFeet(distance){
+function scuberGreetingForFeet(){
  let greeting 
- if(distance > 0)
+ if(distance => 0)
 }
 
 function ternaryCheckCity(){
